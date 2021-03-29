@@ -1,4 +1,4 @@
-# This example retreives the balance of the given address and total balance of the given seed.
+# This example retrieves the balance of the given address and total balance of the given seed.
 import iota_client
 
 # *** Replace with your testing seed (In case you decided to generate one, otherwise keep this one) ***
